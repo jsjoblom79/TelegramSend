@@ -12,3 +12,7 @@ There was a little more to it then just that. the JAVA application needed to be 
 
 I had tons of trouble just getting the java script written, finally able to just create it after accessing from VS Code. using the IBM i Developer Package extention.
 
+## Telegram Bot
+
+You will need to create a bot on Telegram fairly easy process. This should help with additional info. https://core.telegram.org/api
+
